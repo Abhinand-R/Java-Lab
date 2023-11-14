@@ -35,7 +35,7 @@ System.out.print("Enter the limit of Array :");
 
 int lim = sc.nextInt();
 int arr[] = new int[lim];
-System.out.println("Enter the elements of Array :");
+System.out.println("Enter the elements of Array:");
 for(int i = 0 ; i<lim;i++) {
 arr[i]=sc.nextInt();
 }
