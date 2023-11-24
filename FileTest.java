@@ -35,7 +35,7 @@ File f2=new File("new.txt");
 f2.createNewFile();
 FileWriter obj3=new FileWriter("new.txt");
 obj3.write(array);
-System.out.println("Contents of the file amiya🤷‍♀️🤷‍♀️.txt cop😊😊😊😊😊ied to new.txt successfully");
+System.out.println("Contents of the file.txt copied to new.txt successfully");
 obj3.close();
 FileReader obj4=new FileReader("new.txt");
 BufferedReader br=new BufferedReader(obj4);
