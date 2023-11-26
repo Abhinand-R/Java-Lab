@@ -17,7 +17,7 @@ f1.createNewFile();
 System.out.println("File created");
 }
 
-System.out.println("Ethra num");
+System.out.println("Ethra  num");
 int lim=s.nextInt();
 
 try {
@@ -32,6 +32,7 @@ int content,content1;
 FileInputStream obj2=new FileInputStream("Text.txt");
 /*while((content=obj2.read())!=-1) {
 System.out.print(content+" ");
+
 }*/
 
 File f2=new File("Odd.txt");
